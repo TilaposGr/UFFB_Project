@@ -1,9 +1,9 @@
-# Zen Browser for Android
+# Unnamed Fancy Firefox Browser
 
-NOT AFFILIATED WITH THE ZEN OSS TEAM!
+INSPIRED BY THE ZEN BROWSER DESIGN PHILOSOPHY.
 
 
-Zen browser mobile is the all-new Firefox-based Android browser, based on [GeckoView](https://mozilla.github.io/geckoview/) and [Mozilla Android Components](https://mozac.org/).
+The UFFB project is the all-new Firefox-based Android browser, based on [GeckoView](https://mozilla.github.io/geckoview/) and [Mozilla Android Components](https://mozac.org/).
 
 ## Build Instructions
 
